@@ -1,6 +1,6 @@
 # K_Portfolio
 Example data science portfolio
-# Project 1:  Data Science Dock door allocation optimisation & yard performance modeling for trucks and trailers for customer in USA
+# Project 1: Dock door allocation optimisation & yard performance modeling for trucks and trailers for customer in USA
   * Improve yard efficiency and decrease cost:
 - By predicting the yard processing time ( check-in to close-trailler time ) for each trailer, the factory would be able to identify detention candidate trucks and take proactive measures to shorten their yard processing time.
 - By listing out the reasons for potential detention of each detention candidate, yard managment will be able to focus on the optimal action to decrease trucks processing time.
